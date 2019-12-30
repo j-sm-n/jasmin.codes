@@ -3,20 +3,10 @@ layout: page
 title: About
 ---
 
-## Colorie - Single column blog and portfolio Jekyll theme 
+## Hey there, the name's Jasmin (no 'e', please)
 
-Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
+I'm a Full-Stack Software Engineer currently working in eCommerce at StackCommerce in Venice, CA.
 
-### Key features
+Prior to being a SWE, I was a Project Manager for startups focused on Mobile Development and Marketing. I especially love working on bugs, addressing resiliency improvements to existing solutions and building better engineering cultures.
 
-- seo optimized
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
+In my spare time, I co-organize the [LA Devs Slack community](http://www.ladevs.org/) focused on connecting developers, designers, strategists and tech leaders in the Greater Los Angeles area.
