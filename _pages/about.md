@@ -11,6 +11,8 @@ Prior to being a SWE, I was a Project Manager for startups focused on Mobile Dev
 
 You can view my résumé [here](jasmin_hudacsek_resume.pdf).
 
-In my spare time, I co-organize the [LA Devs Slack community](http://www.ladevs.org/) focused on connecting developers, designers, strategists and tech leaders in the Greater Los Angeles area. I also love cooking, checking out restaurants and spoiling my dog [Noodles](https://www.instagram.com/noodypix/).
+In my spare time, I co-organize the [LA Devs Slack community](http://www.ladevs.org/) focused on connecting developers, designers, strategists and tech leaders in the Greater Los Angeles area.
+
+I like collecting NYT Cooking recipes, planning trips around restaurants and bakeries I've been wanting to try, drinking summer drinks in the winter, and spoiling my dog [Noodles](https://www.instagram.com/noodypix/).
 
 If you'd like to reach out to me, feel free to email me at jasmin at hudacsek dot com. You can also find me on [Twitter](https://twitter.com/j_sm_n), [DEV](https://dev.to/jsmn), [Github](https://github.com/j-sm-n) and [LinkedIn](https://www.linkedin.com/in/hudacsek/).
