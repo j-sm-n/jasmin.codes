@@ -1,39 +1,28 @@
-site: Colorie
-url: 
-author: Colorie
+site: Jasmin Codes
+url: www.jasmin.codes
+author: Jasmin Hudacsek
 author:
-  name: Colorie
-  email: 
-  url: 
-  avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
-logo: 
-image: 
-twitter: ronaldsvilcins  
-twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
-  card: summary
+  name: Jasmin Hudacsek
+  email: jasmin@hudacsek.com
+  url:
+  avatar:
+title: Jasmin Codes
+description: Jasmin Hudacsek's Personal Website
+logo:
+image:
 social:
-  name: Ronalds Vilcins
+  name: Jasmin Hudacsek
   links:
-    - https://twitter.com/#
-    - https://www.dribbble.com/#
-    - https://github.com/#
-    - https://codepen.io/#
-  
-permalink: pretty
+    - https://twitter.com/j_sm_n
+    - https://github.com/j-sm-n
 
-disqus:
-  name: "your disqus username" # required
-  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
+permalink: pretty
 
 baseurl:             ""
 
 include:
   - _redirects
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -47,7 +36,6 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - disqus-for-jekyll
 
 collections:
   pages:
@@ -59,7 +47,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:slug
-  
+
 defaults:
   -
     scope:
@@ -83,8 +71,8 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "project"     
-      
+      layout: "project"
+
   - scope:
       path: "assets/images"
     values:
