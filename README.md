@@ -1,20 +1,5 @@
-## Colorie - Single column blog and portfolio Jekyll theme 
+# Jasmin Workman's Personal Site
 
-Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab12f2ba-75a9-4931-8a3b-31eb49faeee4/deploy-status)](https://app.netlify.com/sites/tender-banach-78f205/deploys)
 
-### Key features
-
-- seo optimized
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- dusqus comments
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
-
-![Screenshot](screenshot.png)
+Jekyll theme: [Colorie](https://github.com/ronv/colorie)

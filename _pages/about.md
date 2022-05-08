@@ -3,16 +3,11 @@ layout: page
 title: About
 ---
 
-## Hey there, the name's Jasmin (no 'e', please)
+## About
 
-I'm a Full-Stack Software Engineer currently working at Stitch Fix based out of Los Angeles, CA.
+Hi there, I'm Jasmin Workman! I am a software developer in Denver, CO that specializes in Fullstack development. I, like many others, first fell in love with web development during the days of MySpace and when teaching yourself HTML and CSS was a necessary skill in order to impress all of your friends. This early affection for tinkering on the web eventually led me to want to work in tech full-time but I still have the same passion as I did when I was a kid to deliver delightful and useful user experiences with the code I write.
 
-Prior to being a SWE, I was a Project Manager for startups focused on Mobile Development and Marketing. I especially love working on bugs, addressing resiliency improvements to existing solutions and building better engineering cultures.
+Outside of work, I like collecting cooking recipes, planning trips around restaurants and bakeries I've been wanting to try, drinking summer drinks in the winter, and spoiling my dog Noodles.
 
-You can view my résumé [here](jasmin_hudacsek_resume.pdf).
-
-In my spare time, I co-organize the [LA Devs Slack community](http://www.ladevs.org/) focused on connecting developers, designers, strategists and tech leaders in the Greater Los Angeles area.
-
-I like collecting cooking recipes, planning trips around restaurants and bakeries I've been wanting to try, drinking summer drinks in the winter, and spoiling my dog [Noodles](https://www.instagram.com/noodypix/).
-
-If you'd like to reach out to me, feel free to email me at jasmin at hudacsek dot com. You can also find me on [Twitter](https://twitter.com/j_sm_n), [DEV](https://dev.to/jsmn), [Github](https://github.com/j-sm-n) and [LinkedIn](https://www.linkedin.com/in/hudacsek/).
+### Resume
+You can view my résumé [here](jasmin_workman_resume.pdf).
