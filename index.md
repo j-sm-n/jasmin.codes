@@ -5,4 +5,4 @@ title: Home
 
 # Hey there, the name's Jasmin (no 'e', please).
 
-I am a software developer in denver, CO that specializes in fullstack development.
+I am a software developer in Denver, CO that specializes in fullstack development.
