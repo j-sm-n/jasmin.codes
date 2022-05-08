@@ -9,7 +9,7 @@ I'm a Full-Stack Software Engineer currently working at Stitch Fix based out of 
 
 Prior to being a SWE, I was a Project Manager for startups focused on Mobile Development and Marketing. I especially love working on bugs, addressing resiliency improvements to existing solutions and building better engineering cultures.
 
-You can view my résumé [here](jasmin_hudacsek_resume.pdf).
+You can view my résumé [here](jasmin_workman_resume.pdf).
 
 In my spare time, I co-organize the [LA Devs Slack community](http://www.ladevs.org/) focused on connecting developers, designers, strategists and tech leaders in the Greater Los Angeles area.
 
