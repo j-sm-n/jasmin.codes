@@ -1,0 +1,20 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about me
+    entries:
+      - title: email
+        url: mailto:hello@jasmin.codes
+      - title: github
+        url: https://github.com/j-sm-n
+      - title: linkedin
+        url: https://linkedin.com/in/hudacsek
+      - title: "keep in touch: <a href='https://jazworkman.substack.com'>substack</a>, <a href='/feed.xml'>rss feed</a>"
+
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See older posts...
+      show_more_url: archive.html

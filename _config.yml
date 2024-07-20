@@ -1,80 +1,28 @@
 site: Jasmin Codes
-url: www.jasmin.codes
-author: Jasmin Hudacsek Workman
-timezone: America/Denver 
-author:
-  name: Jasmin Hudacsek Workman
-  email: jasmin@hudacsek.com
-  url:
-  avatar:
-title: Jasmin Codes
-description: Jasmin Workman's Personal Website
-logo:
-image:
-social:
-  name: Jasmin Hudacsek Workman
-  links:
-    - https://twitter.com/j_sm_n
-    - https://github.com/j-sm-n
+title: Jaz Workman
+url: https://jasmin.codes
+timezone: America/Denver
+author: Jaz Workman
+email: jasmin@hudacsek.com
+description: Jaz Workman's Personal Website
+github_username: j-sm-n
 
-permalink: pretty
+permalink: /:slug.html
 
-baseurl:             ""
+favicon: "logo.png"
 
-include:
-  - _redirects
-
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  style: :compressed
 
 plugins:
-  - jekyll-paginate
-  - jekyll-gist
+  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  projects:
-    output: true
-    permalink: /projects/:slug
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
+include:
+  - _pages
