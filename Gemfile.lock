@@ -82,7 +82,9 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
-  rouge
+
+RUBY VERSION
+   ruby 3.3.4p94
 
 BUNDLED WITH
    2.3.8
