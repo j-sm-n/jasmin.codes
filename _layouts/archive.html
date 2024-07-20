@@ -6,6 +6,4 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-{{ content }}
-
-{% include newsletter.html %}
+{%-include post_list.html category=page.which_category-%}
