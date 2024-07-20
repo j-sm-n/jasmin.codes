@@ -8,9 +8,11 @@ entries:
         url: mailto:hello@jasmin.codes
       - title: github
         url: https://github.com/j-sm-n
+      - title: bsky
+        url: https://bsky.app/profile/jsmn.bsky.social
       - title: linkedin
         url: https://linkedin.com/in/hudacsek
-      - title: "keep in touch: <a href='https://jazworkman.substack.com'>substack</a>, <a href='/feed.xml'>rss feed</a>"
+      - title: "stay up-to-date: <a href='https://jazworkman.substack.com'>substack</a>, <a href='/feed.xml'>rss feed</a>"
 
   - title: posts
     post_list:
