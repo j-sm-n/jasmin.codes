@@ -12,7 +12,7 @@ entries:
         url: https://bsky.app/profile/jsmn.bsky.social
       - title: linkedin
         url: https://linkedin.com/in/hudacsek
-      - title: "stay up-to-date: <a href='https://jazworkman.substack.com'>substack</a>, <a href='/feed.xml'>rss feed</a>"
+      - title: "stay up-to-date: <a href='https://snarkandscalability.substack.com'>substack</a>, <a href='/feed.xml'>rss feed</a>"
 
   - title: posts
     post_list:
